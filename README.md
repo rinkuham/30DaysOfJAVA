@@ -16,7 +16,7 @@ This repository contains my daily Java programs, notes, and mini-projects as I l
 
 - [x] Day 1 - Repository Setup
 - [x] Day 2 - Made my first commit and push
-- [ ] Day 3
+- [x] Day 3 - Taking user input and check conditions
 - [ ] Day 4
 - [ ] Day 5
 
