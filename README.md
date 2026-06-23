@@ -17,7 +17,7 @@ This repository contains my daily Java programs, notes, and mini-projects as I l
 - [x] Day 1 - Repository Setup
 - [x] Day 2 - Made my first commit and push
 - [x] Day 3 - Taking user input and check conditions
-- [ ] Day 4
+- [x] Day 4 - Built a calculator using if else statments and learned type casting.
 - [ ] Day 5
 
 ## Tools Used
